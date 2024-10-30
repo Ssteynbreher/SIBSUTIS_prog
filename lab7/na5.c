@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>
 //поменять местами
 void sw(char *word) {
     int len = strlen(word);
